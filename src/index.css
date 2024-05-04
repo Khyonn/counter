@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  @apply min-h-svh bg-gradient-to-b from-blue-200 via-blue-400 to-white p-4 pb-0 grid
+}
