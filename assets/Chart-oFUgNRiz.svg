@@ -1,0 +1,115 @@
+<svg width="250" xmlns="http://www.w3.org/2000/svg" height="125"
+    id="screenshot-51fe7a4d-4f24-8079-8004-4c53056420c7" fill="none" version="1.1">
+    <style>@font-face{font-family:&apos;sourcesanspro&apos;;font-style:normal;font-weight:bold;font-display:block;src:url(https://design.penpot.app/fonts/sourcesanspro-bold.woff)
+        format(&apos;woff&apos;)}</style>
+    <g id="shape-51fe7a4d-4f24-8079-8004-4c53056420c7">
+        <g mask="url(#render-2-51fe7a4d-4f24-8079-8004-4c51d86885be-mask)"
+            clip-path="url(#render-2-51fe7a4d-4f24-8079-8004-4c51d86885be-clip)"
+            id="shape-51fe7a4d-4f24-8079-8004-4c51ec20f516">
+            <defs>
+                <clipPath id="render-2-51fe7a4d-4f24-8079-8004-4c51d86885be-clip"
+                    class="mask-clip-path">
+                    <polyline points="0,0 250,0 250,125.00000000000003 0,125.00000000000003" />
+                </clipPath>
+                <filter id="render-2-51fe7a4d-4f24-8079-8004-4c51d86885be-filter">
+                    <feFlood flood-color="#fff" result="FloodResult" />
+                    <feComposite in="FloodResult" in2="SourceGraphic" operator="in" result="comp" />
+                </filter>
+                <mask width="250" maskUnits="userSpaceOnUse" height="125" class="mask-shape" x="0"
+                    id="render-2-51fe7a4d-4f24-8079-8004-4c51d86885be-mask" data-old-y="0"
+                    data-old-width="250" data-old-x="0" y="0" data-old-height="125">
+                    <g filter="url(#render-2-51fe7a4d-4f24-8079-8004-4c51d86885be-filter)">
+                        <g id="shape-51fe7a4d-4f24-8079-8004-4c51d86885be">
+                            <rect rx="0" ry="0" width="250" height="125"
+                                style="fill: rgb(177, 178, 181); fill-opacity: 1;" class="fills"
+                                id="fills-51fe7a4d-4f24-8079-8004-4c51d86885be" />
+                        </g>
+                    </g>
+                </mask>
+            </defs>
+            <g id="shape-51fe7a4d-4f24-8079-8004-4c51d36be31d">
+                <circle cx="125" cy="125" style="fill: rgb(177, 178, 181); fill-opacity: 0;" r="125"
+                    class="fills" id="fills-51fe7a4d-4f24-8079-8004-4c51d36be31d" />
+                <g id="strokes-51fe7a4d-4f24-8079-8004-4c51d36be31d" class="strokes">
+                    <g class="inner-stroke-shape">
+                        <defs>
+                            <clipPath
+                                id="inner-stroke-render-4-51fe7a4d-4f24-8079-8004-4c51d36be31d-0">
+                                <use
+                                    href="#stroke-shape-render-4-51fe7a4d-4f24-8079-8004-4c51d36be31d-0" />
+                            </clipPath>
+                            <circle cx="125" cy="125"
+                                id="stroke-shape-render-4-51fe7a4d-4f24-8079-8004-4c51d36be31d-0"
+                                style="fill: none; stroke-width: 62; stroke: rgb(102, 183, 51); stroke-opacity: 1;"
+                                r="125" />
+                        </defs>
+                        <use href="#stroke-shape-render-4-51fe7a4d-4f24-8079-8004-4c51d36be31d-0"
+                            clip-path="url('#inner-stroke-render-4-51fe7a4d-4f24-8079-8004-4c51d36be31d-0')" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g mask="url(#render-5-51fe7a4d-4f24-8079-8004-4c52954018ff-mask)"
+            clip-path="url(#render-5-51fe7a4d-4f24-8079-8004-4c52954018ff-clip)"
+            id="shape-51fe7a4d-4f24-8079-8004-4c52d51828a4">
+            <defs>
+                <clipPath id="render-5-51fe7a4d-4f24-8079-8004-4c52954018ff-clip"
+                    class="mask-clip-path">
+                    <polyline
+                        points="186,31.00000000000003 250,31.00000000000003 250,125.00000000000003 186,125.00000000000003" />
+                </clipPath>
+                <filter id="render-5-51fe7a4d-4f24-8079-8004-4c52954018ff-filter">
+                    <feFlood flood-color="#fff" result="FloodResult" />
+                    <feComposite in="FloodResult" in2="SourceGraphic" operator="in" result="comp" />
+                </filter>
+                <mask width="64" maskUnits="userSpaceOnUse" height="94" class="mask-shape" x="186"
+                    id="render-5-51fe7a4d-4f24-8079-8004-4c52954018ff-mask" data-old-y="31"
+                    data-old-width="64" data-old-x="186" y="31" data-old-height="94">
+                    <g filter="url(#render-5-51fe7a4d-4f24-8079-8004-4c52954018ff-filter)">
+                        <g id="shape-51fe7a4d-4f24-8079-8004-4c52954018ff">
+                            <path d="M250 31v94h-64V95a64 64 0 0 1 64-64z"
+                                style="fill: rgb(177, 178, 181); fill-opacity: 1;" class="fills"
+                                id="fills-51fe7a4d-4f24-8079-8004-4c52954018ff" />
+                        </g>
+                    </g>
+                </mask>
+            </defs>
+            <g id="shape-51fe7a4d-4f24-8079-8004-4c521d412262">
+                <circle cx="125" cy="125" style="fill: rgb(177, 178, 181); fill-opacity: 0;" r="125"
+                    class="fills" id="fills-51fe7a4d-4f24-8079-8004-4c521d412262" />
+                <g id="strokes-51fe7a4d-4f24-8079-8004-4c521d412262" class="strokes">
+                    <g class="inner-stroke-shape">
+                        <defs>
+                            <clipPath
+                                id="inner-stroke-render-7-51fe7a4d-4f24-8079-8004-4c521d412262-0">
+                                <use
+                                    href="#stroke-shape-render-7-51fe7a4d-4f24-8079-8004-4c521d412262-0" />
+                            </clipPath>
+                            <circle cx="125" cy="125"
+                                id="stroke-shape-render-7-51fe7a4d-4f24-8079-8004-4c521d412262-0"
+                                style="fill: none; stroke-width: 62; stroke: rgb(183, 65, 45); stroke-opacity: 1;"
+                                r="125" />
+                        </defs>
+                        <use href="#stroke-shape-render-7-51fe7a4d-4f24-8079-8004-4c521d412262-0"
+                            clip-path="url('#inner-stroke-render-7-51fe7a4d-4f24-8079-8004-4c521d412262-0')" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <!-- <g class="text-container" id="shape-51fe7a4d-4f24-8079-8004-4c53feaf14e7">
+            <defs>
+                <pattern patternUnits="userSpaceOnUse" x="82" y="85" width="94.313" height="45"
+                    id="fill-0-render-8-0">
+                    <rect width="94.313" height="45"
+                        style="fill: rgb(34, 21, 158); fill-opacity: 1;" />
+                </pattern>
+            </defs>
+            <text x="82" y="127" dominant-baseline="ideographic" textLength="94.313"
+                lengthAdjust="spacingAndGlyphs"
+                style="text-transform: none; font-family: sourcesanspro; letter-spacing: normal; font-style:
+        normal; font-weight: 700; white-space: pre; font-size: 33px; text-decoration: none solid
+        rgb(34, 21, 158); direction: ltr; fill: rgb(34, 21, 158); fill-opacity: 1;"
+                class="fills" id="fills-51fe7a4d-4f24-8079-8004-4c53feaf14e7">75 - 25</text>
+        </g> -->
+    </g>
+</svg>
